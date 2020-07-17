@@ -11,11 +11,11 @@ namespace Group21.Models
 
         [Key]
         [Required(ErrorMessage = "Enter your id number")]
-        [Display(Name = "Id Number")]
+        [Display(Name = "Id")]
         public string StID { get; set; }
         
         [Required(ErrorMessage = "Enter first name")]
-        [Display(Name = "First Name")]
+        [Display(Name = "Name")]
         public string StudentName { get; set; }
 
         [Required(ErrorMessage = "Enter your surname")]
@@ -43,7 +43,7 @@ namespace Group21.Models
         public string StudentCourse { get; set; }
 
         [Required(ErrorMessage = "Enter contact number")]
-        [Display(Name = "Student contact number")]
+        [Display(Name = "Contact number")]
         public string StudentContact { get; set; }
 
         [Required(ErrorMessage = "Enter your email")]
@@ -55,31 +55,31 @@ namespace Group21.Models
         public string StudentPassword { get; set; }
 
         [Required(ErrorMessage = "Enter parentguardian name")]
-        [Display(Name = "ParentGuardian Name")]
+        [Display(Name = "Parent Name")]
         public string ParentName { get; set; }
 
         [Required(ErrorMessage = "Enter parent id")]
-        [Display(Name = "Parent Id number")]
+        [Display(Name = "Parent Id")]
         public string ParentId { get; set; }
 
         [Required(ErrorMessage = "Enter parent contact number")]
-        [Display(Name = "Parent contact number")]
+        [Display(Name = "Parent Contact")]
         public string ParentContact { get; set; }
 
         [Required(ErrorMessage = "Upload your birth certificate")]
-        [Display(Name = " Student Birth Certificate")]
+        [Display(Name = "Birth Certificate")]
         public string StudentBirthCertURL { get; set; }
 
         [Required(ErrorMessage = " Upload your last official school report")]
-        [Display(Name = "The last official school report card")]
+        [Display(Name = "Report card")]
         public string StudentReportURL { get; set; }
 
         [Required(ErrorMessage = " Upload proof of residence")]
-        [Display(Name = "Proof of residencet")]
+        [Display(Name = "Proof of residence")]
         public string StudentProofResURL { get; set; }
 
 
-        [Display(Name = "Upload your study permit")]
+        [Display(Name = "Study permit")]
         public string StudentPermitURL { get; set; }
 
 

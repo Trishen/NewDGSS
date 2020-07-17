@@ -29,5 +29,6 @@ namespace Group21.Models
         {
             return new ApplicationDbContext();
         }
+        public DbSet<Student>Student { get; set; }
     }
 }
