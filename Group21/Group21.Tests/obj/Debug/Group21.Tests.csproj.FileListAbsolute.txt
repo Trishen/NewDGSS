@@ -103,3 +103,4 @@ C:\Users\GOKU\Desktop\DGSS project\NewDGSS\Group21\Group21.Tests\obj\Debug\Group
 C:\Users\GOKU\Desktop\DGSS project\NewDGSS\Group21\Group21.Tests\obj\Debug\Group21.Tests.csproj.CopyComplete
 C:\Users\GOKU\Desktop\DGSS project\NewDGSS\Group21\Group21.Tests\obj\Debug\Group21.Tests.dll
 C:\Users\GOKU\Desktop\DGSS project\NewDGSS\Group21\Group21.Tests\obj\Debug\Group21.Tests.pdb
+C:\Users\GOKU\Desktop\DGSS project\NewDGSS\Group21\Group21.Tests\obj\Debug\Group21.Tests.csproj.CoreCompileInputs.cache
