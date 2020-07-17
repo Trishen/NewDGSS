@@ -13,7 +13,7 @@ namespace Group21.Models
         [Required(ErrorMessage = "Enter your id number")]
         [Display(Name = "Id Number")]
         public string StID { get; set; }
-
+        
         [Required(ErrorMessage = "Enter first name")]
         [Display(Name = "First Name")]
         public string StudentName { get; set; }

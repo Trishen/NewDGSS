@@ -7,5 +7,8 @@ namespace Group21.Models.View_Models
 {
     public class Registration
     {
+
+
     }
+
 }
