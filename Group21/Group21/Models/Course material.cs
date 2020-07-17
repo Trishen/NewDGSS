@@ -30,7 +30,8 @@ namespace Group21.Models
 
         [Required(ErrorMessage = "Enter subject id")]
         [Display(Name = "subject id: ")]
-        public virtual sub SubID { get; set; }
+        public virtual sub
+            SubID { get; set; }
 
         [Required(ErrorMessage = "Enter staff id")]
         [Display(Name = "Id Number: ")]
@@ -38,6 +39,4 @@ namespace Group21.Models
 
 
     }
-}
-}
 }
