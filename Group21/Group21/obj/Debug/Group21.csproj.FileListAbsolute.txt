@@ -211,4 +211,3 @@ C:\Users\GOKU\Desktop\DGSS project\NewDGSS\Group21\Group21\obj\Debug\Group21.csp
 C:\Users\GOKU\Desktop\DGSS project\NewDGSS\Group21\Group21\obj\Debug\Group21.csproj.CopyComplete
 C:\Users\GOKU\Desktop\DGSS project\NewDGSS\Group21\Group21\obj\Debug\Group21.dll
 C:\Users\GOKU\Desktop\DGSS project\NewDGSS\Group21\Group21\obj\Debug\Group21.pdb
-C:\Users\GOKU\Desktop\DGSS project\NewDGSS\Group21\Group21\obj\Debug\Group21.csproj.CoreCompileInputs.cache
