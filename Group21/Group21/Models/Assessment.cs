@@ -12,25 +12,37 @@ namespace Group21.Models
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public string AssessmentID { get; set; }
+        public int AssessmentID { get; set; }
 
-        [Required(ErrorMessage = "Enter Date")]
-        [Display(Name = "Date")]
+        [Required(ErrorMessage = "Enter Test Name")]
+        [Display(Name = "Test Name")]
+        public string Name { get; set; }
 
+        [Required(ErrorMessage = "Test Time")]
+        [Display(Name = "Test Time")]
+        public DateTime AssessmentTime { get; set; }
+
+        [Required(ErrorMessage = "Enter Test Date")]
+        [Display(Name = "Test Date")]
         public DateTime AssessmentDate { get; set; }
-        [Required(ErrorMessage = "Enter Assessment Type")]
-        [Display(Name = "Assessment Type")]
+
+        [Required(ErrorMessage = "Enter Test Type")]
+        [Display(Name = "Test Type")]
         public string Type { get; set; }
 
-        [Required(ErrorMessage = "Enter Exam")]
-        [Display(Name = "Exam")]
-        public string AssessmentExam { get; set; }
+        [Required(ErrorMessage = "Enter Test Venue")]
+        [Display(Name = "Test Venue")]
+        public string AssessmentVenue{ get; set; }
 
-        /* public string StudentID { get; set; }
+        [Required(ErrorMessage = "Enter Grade")]
+        [Display(Name = "Grade")]
+        public string Grade { get; set; }
+
+        public string StID { get; set; }
          public virtual Student Student { get; set; }
-         public string Mark { get; set; }
-         public virtual Report Report { get; set; }
-         public string SubjectID { get; set; }
-         public virtual Subject Subject { get; set; } */
+        // public string Mark { get; set; }
+        // public virtual Report Report { get; set; }
+         public string subID { get; set; }
+         public virtual sub subs { get; set; } 
     }
 }

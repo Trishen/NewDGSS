@@ -99,11 +99,9 @@ C:\Users\GOKU\Desktop\DGSS project\NewDGSS\Group21\Group21.Tests\bin\Debug\Entit
 C:\Users\GOKU\Desktop\DGSS project\NewDGSS\Group21\Group21.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
 C:\Users\GOKU\Desktop\DGSS project\NewDGSS\Group21\Group21.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
 C:\Users\GOKU\Desktop\DGSS project\NewDGSS\Group21\Group21.Tests\bin\Debug\Antlr3.Runtime.pdb
-C:\Users\GOKU\Desktop\DGSS project\NewDGSS\Group21\Group21.Tests\obj\Debug\Group21.Tests.csprojAssemblyReference.cache
 C:\Users\GOKU\Desktop\DGSS project\NewDGSS\Group21\Group21.Tests\obj\Debug\Group21.Tests.csproj.CopyComplete
 C:\Users\GOKU\Desktop\DGSS project\NewDGSS\Group21\Group21.Tests\obj\Debug\Group21.Tests.dll
 C:\Users\GOKU\Desktop\DGSS project\NewDGSS\Group21\Group21.Tests\obj\Debug\Group21.Tests.pdb
-C:\Users\GOKU\Desktop\DGSS project\NewDGSS\Group21\Group21.Tests\obj\Debug\Group21.Tests.csproj.CoreCompileInputs.cache
 E:\code\NewDGSS\Group21\Group21.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 E:\code\NewDGSS\Group21\Group21.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 E:\code\NewDGSS\Group21\Group21.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
@@ -218,3 +216,4 @@ C:\Users\acer\Source\Repos\NewDGSS\Group21\Group21.Tests\obj\Debug\Group21.Tests
 C:\Users\acer\Source\Repos\NewDGSS\Group21\Group21.Tests\obj\Debug\Group21.Tests.csproj.CopyComplete
 C:\Users\acer\Source\Repos\NewDGSS\Group21\Group21.Tests\obj\Debug\Group21.Tests.dll
 C:\Users\acer\Source\Repos\NewDGSS\Group21\Group21.Tests\obj\Debug\Group21.Tests.pdb
+C:\Users\GOKU\Desktop\DGSS project\NewDGSS\Group21\Group21.Tests\obj\Debug\Group21.Tests.csproj.CoreCompileInputs.cache
